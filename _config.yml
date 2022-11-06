@@ -1,0 +1,5 @@
+# Jekyll configuration
+name: Roughing It
+description: A collection of information of how to live outside
+url: "https://import-that.github.io/roughing_it"
+markdown: kramdown
