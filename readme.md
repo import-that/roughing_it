@@ -18,5 +18,4 @@ As mentioned near the top of https://import-that.github.io/roughing_it/, if you 
 <u>**If you are experiencing a medical emergency, consider visiting an emergency room for medical assistance.**</u>
 
 ## License
-<!-- TODO: license choice -->
-As of now, these documents are unlicensed, and as such all copyright is the property of myself (The Author, a.k.a import-that). The Author permits any non-commercial use or derivation of these documents until such time that a license is chosen for these documents. The license of these documents will be updated at a future date which will be specified.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
