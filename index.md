@@ -38,32 +38,33 @@ Finally, this document will list some [Creature Comforts](#creature-comforts) th
 ## Essential Items
 This is a rough list of some items that I believe every person who is without a home ought to have. This is not a complete list, and is derived from my experiences in the wilderness - you may not need some of these items, or you may need items not listed here. Please consider your own needs and the legality of owning these items within your locality before deciding to carry these items. I will discuss how to best use the items later in this document. In no particular order:
 
-  <!-- TODO: place essential items in order
+  <!--
+  TODO: place essential items in order
 
     essential items should be in order of most needed to least needed
 
     general order should be clothing > shelter > sleeping > food-related > safety/utility > hygiene > comfort/convenience
-   -->
+  
 
-  <!-- TODO: eassential items to add
+  TODO: eassential items to add
     - multitool - useful for everything and coveres some of the items listed here
     - synthetic fiber towel(s)
       - very useful for drying yourself off
       - can be used as a insulation for warmth if dry
-   -->
 
-  <!-- - ### item
+  - ### item
 
     ![image_name](/images/relative_link)
-    description/quick info -->
+    description/quick info
+    
+  -->
 
   - ### A sleeping bag
 
     ![sleeping_bag](/images/sleeping_bag.jpg)
-    <!-- TODO: sleeping bag -->
     Sleeping bags are very important for both your safety and comfort. While you are able to survive without one, a sleeping bag will keep you warmer while you sleep, keeping you safer and making you feel more rested.
 
-    An ideal sleeping bag will be made from 100% synthetic fibers and be rated for 15°F(-10°C) or lower and be _compressible_ - being able to compress your sleeping bag in a compression sack. You should avoid sleeping bags made with natural fibers as they will retain water and not be as warm. Sleeping bags can be expensive, but are perhaps the best investment you can possibly make in a piece of equipment.
+    An ideal sleeping bag will be made from 100% synthetic fibers and be rated for 15°F(-10°C) or lower and be _compressible_ - being able to compress your sleeping bag in a compression sack is important because it will save significant space in you r kit of gear. You should avoid sleeping bags made with natural fibers as they will retain water and not be as warm. Sleeping bags can be expensive, but are perhaps the best investment you can possibly make in a piece of equipment.
 
     Good quality sleeping bags can be readily found at outdoor retailers and military surplus stores.
 
@@ -71,43 +72,55 @@ This is a rough list of some items that I believe every person who is without a 
 
     ![parachute_cord](/images/parachute_cord.jpg)
 
-    A type of very strong synthetic rope that is invaluable for building shelters, securing packs, and creating tools/harnesses/lanyards/etc. This can generally be acquired from outdoor equipment retailers, military surplus stores, and occasionally big-box stores.
-
-    The best way to use parachute cord is to cut off an appropriate length for your needs, then use the flame of a lighter to melt the cut ends to prevent fraying. Tying knots in the ends of parachute cord can also prevent fraying, but not as effectively.
+    A type of very strong synthetic rope that is invaluable for building shelters, securing packs, and creating tools/harnesses/lanyards/etc. The best way to use parachute cord is to cut off an appropriate length for your needs, then use the flame of a lighter to melt the cut ends to prevent fraying. Tying knots in the ends of parachute cord can also prevent fraying, but not as effectively.
   
+    Parachute cord can generally be acquired from outdoor equipment retailers, military surplus stores, and hardware stores stores. In place of parachute cord, you can also use other styles of nylong rope - you should try your best to find a type of rope with a fiber core and a woven sheath, though any type of rope is perfectly usable.
+
   - ### A roll of duct tape
 
     ![duct_tape](/images/duct_tape.jpg)
       
     Duct tape is invaluable and generally a water-resistant adhesive tape that can be used both to repair items and even construct items if needed. This can generally be found anywhere; you should opt for a brand that uses fibers within the tape as it will be stronger than tapes made of only plastic. While not absolutely needed for creating a shelter with plastic tarps, duct tape helps immensely in keeping your tarps from tearing, and can be used to create accessories for shelters such as door flaps or to patch holes in your equipment. I will discuss how to use duct tape when creating a shelter later in this document.
+
+    You can acquire duct tape at most stores, including big-box stores, outdoor retailers, hardware stores, and military surplus stores.
   
   - ### Scissors (alternatively a knife)
 
     ![scissors](/images/scissors.jpg)
     
-    Scissors (or even a knife) are incredibly useful for all kinds of tasks, particularly for the upkeep or creation of your equipment, creating shelters, and making alterations to items you already own. Please investigate the legality of owning a knife or other blades in your locality before owning this item. **Some localities may not allow you own any kind of blade**, or place restrictions on what kind of blades you may possess. Blades are invaluable tools, _but if you must, you can do without one_. You can generally acquire these at most stores or outdoors retailers.
+    Scissors (or even a knife) are incredibly useful for all kinds of tasks, particularly for the upkeep or creation of your equipment, creating shelters, and making alterations to items you already own. Please investigate the legality of owning a knife or other blades in your locality before owning this item. **Some localities may not allow you own any kind of blade**, or place restrictions on what kind of blades you may possess. Blades are invaluable tools, _but if you must, you can do without one_.
+    
+    You can generally acquire scissors or knives at most stores or outdoors retailers.
   
   - ### Plastic Tarps
 
     ![plastic_tarp](/images/plastic_tarp.jpg)
+
+    This guide discusses how best to use plastic tarps both in the [section about shelter](#shelter) and the [section on packing your backpack](#packing-your-backpack).
     
-    Plastic tarps, particularly in combination with parachute cord and duct tape, are invaluable. You can improvise backpacks, create shelters, keep your possessions dry, and create rain gear to keep yourself warm and dry with plastic tarps. I will discuss how to use tarps to create shelters and backpacks extensively later in this document. I suggest owning _at least_ two 10' x 12' (ten foot by twelve foot) plastic tarps in your kit, though 3 is preferable due to the potrntial need to cut a tarp into useful pieces.
+    Plastic tarps, particularly in combination with parachute cord and duct tape, are invaluable. You can improvise backpacks, create shelters, keep your possessions dry, and create rain gear to keep yourself warm and dry with plastic tarps. This guide will discuss how to use tarps to create shelters and backpacks extensively in this document - plastic tarps are one of the most important, cheap, and readily available items that will keep you warm, dry, safe, and comfortable while roughing it. I suggest owning _at least_ two 10' x 12' (ten foot by twelve foot) plastic tarps in your kit, though 3 is preferable due to the potrntial need to cut a tarp into useful pieces.
+
+    Plastic tarps can be found regularly in many sizes at hardware stores, outdoor retailers, big-box stores, and military surplus stores.
   
   - ### Plastic trash bags
 
     ![plastic_trash_bags](/images/plastic_trash_bags.jpg)
     
-    Durable plastic trash bags are very important to have; they are your best bet for keeping you belongings dry, and as a result keeping yourself dry. They can be used as storage for clothing and sleeping bags, rain gear, backpack covers, and even improvised shelters. I would suggest trying to keep 1 roll of 50-gallon trash bags with you if possible. If your space or carry capacity is limited, i suggest keeping at least 5 (five) 50-gallon trash bags on you at all times.
+    Durable plastic trash bags are very important to have; they are your best bet for keeping you belongings dry, and as a result keeping yourself dry. They can be used as storage for clothing and sleeping bags, storage for food items, as rain gear, as backpack covers, and even as improvised shelters. I would suggest trying to keep 1 roll of 50-gallon trash bags with you if possible. If your space or carry capacity is limited, i suggest keeping at least 5 (five) 50-gallon trash bags on you at all times.
 
     5 (five) 50-gallon trash bags will provide you with one trash bag to keep your sleeping bag dry, one to keep your unworn clothing dry, one to use as a backpack cover, one to use as a poncho/rain gear, and one as a spare.
 
     Keeping trash bags in the original roll they come in will save you a significant amount of space in your kit, so it is advised to use them sparingly and to keep them rolled up. Keeping the roll inside a zipper-lock bag or another trash bag will help prevent them from unravelling and taking up more space than needed within your pack.
+
+    Plastic trash bags can be found at nearly every convenience store, big-box store, and hardware store.
   
   - ### Zipper-lock 1 gallon plastic bags
 
     ![zipper_lock_bags](/images/zipper_lock_bags.jpg)
     
     Zipper-lock bags are fantastic for keeping smaller items dry such as lighters, toiletries, composition notebooks and writing utensils, electronics such as phones and batteries, flashlights, and other smaller items that must be kept dry. They are are also great for keeping small clothing items like socks and underwear dry, which is essential for keeping warm.
+
+    Zipper-lock bags can be found at nearly every convenience store and big-box store.
   
   - ### A rechargeable flashlight
 
@@ -116,6 +129,8 @@ This is a rough list of some items that I believe every person who is without a 
     Having light available to you is both incredibly empowering and a safety consideration, making you able to perform work in the dark and stay safe near roads. I would recommend any kind of rechargeable flashlight (preferably ones with a crank handle, and not ones that are solar-charged or that you shake, as these latter two are very energy ineffecient) - requiring batteries or solar charging is not ideal as this means that you cannot create light on demand. Rchargeable flashlights that use a crank handle are also known as "dynamo rechargeable flashlights" as they use a dynamo mechanism to generate electricity.
     
     Some also come with AM/FM radios built in, which can provide useful information about the weather, or help keep your spirits up with some entertainment. Some models can even be used to recharge electronic devices such as smart phones via USB.
+
+    Rechargeable flashlights can most readily be found at outdoor retailers and military surplus stores, though you may also find them in big-box stores that feature a camping section.
   
   - ### Lighters (plural)
 
@@ -124,40 +139,54 @@ This is a rough list of some items that I believe every person who is without a 
     You don't necessarily need lighters because you need to make fires - rather, you need lighters because you can use directed flames to cut and seal the ends of paracord, light gas stoves, or even provide light in worst-case scenarios.
     
     **It is incredibly important to practice fire safety precautions with lighters - the last thing you want is for your posessions or shelter to catch fire, or to be injured by a fire.**
+
+    Lighters can easily be found at nearly every conveience store, smoke shop, big-box store, outdoor retailer, or military surplus store.
   
   - ### Wool socks
 
     ![wool_socks](/images/wool_socks.jpg)
     
-    Wool socks are very important because they are the best means of keeping your feet dry and warm, which is important for your health and comfort. They are quick to dry, warm, comfortable, and pretty easy to acquire. I suggest having _at least_ 2 pairs of long wool socks.
+    Wool socks are very important because they are the best means of keeping your feet dry and warm, which is important for your health and comfort. They are quick to dry, warm, comfortable, and pretty easy to acquire. I suggest having _at least_ 2 pairs of long wool socks. Do not use cotton socks as they are very prone to falling apart quickly and absorbing water, which will make your feet wet and put you at risk of injury and disease.
+
+    Wool socks can easily be found at outdoor retailers and military surplus stores, and very often in big-box stores or generic clothing retailers.
   
   - ### Toiletries
 
     ![toiletries](/images/toiletries.jpg)
     
     These include bar soap, alcohol-based hand sanitizer, toothpase, a toothbrush, a roll of toilet paper, a package of wet wipes, and nail clippers. While these items may not seem important in the grand scheme of things, they will help you keep yourself clean and healthy - some health issues may develop slowly over time as a result of not regularly cleaning your body, so it is important to be hygenic. Health complications are one of the last things you want to deal with while roughing it, and the use of soap, santizers, oral toiletries, and nail clippers will help you prevent the development of illnesses or diseases.
+
+    Most toiletries you will need can be found in convenience stores, and all of them can be found in big-box stores.
   
   - ### Layered clothing
 
     ![layered_clothing](/images/layered_clothing.jpg)
     
-    Two common themes in this document are keeping dry and keeping warm - keeping warm follows keeping dry, and both of these rely on properly layering your clothing. You don't need large heavy coats and pants (as much as they may help you), but you do need layers of clothing with synthetic outer layers. I will discuss later in this document how you should layer your clothing and what specific items to look for. In general though, you want an inner layer of clothing that is warm and made of either wool or synthetics, a middle layer that is warmer and also made of wool or synthetics, and a synthetic outer layer that will block wind and is water resistant.
+    Layered clothing is so important that this guide discusses the subject multiple times - what items of clothing you should acquire are listed in the [Clothing](#clothing) section, and how you should use these clothing items is discussed in the [How To Dress](#how-to-dress) section of this document.
+
+    Two common themes in this document are keeping dry and keeping warm - keeping warm follows keeping dry, and both of these rely on properly layering your clothing. You don't need large heavy coats and pants (as much as they may help you), but you do need layers of clothing with synthetic outer layers. This document will discuss later how you should layer your clothing and what specific items to look for. In general, you want an inner layer of clothing that is warm and made of either wool or synthetics, a middle layer that is warm and also made of wool or synthetics, and a synthetic outer layer that will block wind and is water resistant.
 
     You can read more about layered clothing rationale and techniques [on Wikipedia](https://en.wikipedia.org/wiki/Layered_clothing).
+
+    Acquiring clothing may be difficult, time consuming, and expensive - I would suggest regularly visiting thrift stores or stores that feature clearance sales and inspecting articles of clothing for suitability. Clothing doesn't need to be brand new to be warm and useful.
   
   - ### Water bottles (plural)
 
     ![water_bottles](/images/water_bottles.jpg)
     
-    Besides just having water to drink, having water available can help you cook food, clean your clothing, and clean your body. Any water bottles made of plastic will do; you should avoid glass bottles because they can easily break.
+    Besides just having water to drink, having water available can help you prepare food, clean your clothing, and clean your body. Any water bottles made of plastic will do; you should avoid glass bottles because they can easily break.
+
+    Plastic water bottles are available nearly everywhere - disposable plastic bottles _are reusable_, but you should opt for using bottles that are new when you acquire them. You should not use bottles you find, as they may cause illness or disease.
 
   - ### A good pair of shoes or boots
 
     ![footwear](/images/footwear.jpg)
     
-    Continuing on keeping your feet dry and healthy, a good pair of shoes, or ideally boots, is very important. Keeping your feet dry and warm keeps you mobile and healthy, and should be one of your greatest priorities. Later in this document, I will describe how you can create a dry shelter and how to pack your backpack, which will help you keep your footwear dry and your feet dry and healthy.
+    Continuing on keeping your feet dry and healthy, a good pair of shoes, or ideally boots, is very important. Keeping your feet dry and warm keeps you mobile and healthy, and should be one of your greatest priorities. Later in this document, I will describe [how you can create a dry shelter](#shelter) and [how to pack your backpack](#packing-your-backpack), which will help you keep your footwear dry and your feet dry and healthy.
 
-    If possible, I would suggest having 2 pairs of footwear; having an extra pair of shoes that you can keep dry and switch into if your primary pair of shoes gets wet is important, and just as importantly will help you feel safer and happier.
+    If possible, I would suggest having 2 pairs of footwear; having an extra pair of shoes that you can keep dry and switch into if your primary pair of shoes gets wet is important, and just as importantly will help you feel safer and happier.  As mentioned earlier, [plastic trash bags](#plastic-trash-bags) are fantastic for keeping your belongings dry, and if you do have a second pair of shoes, you should keep one pair in a plastic trash bag to prevent them from getting wet.
+
+    Similarly to clothing, acquiring shoes may be difficult, time consuming, and expensive - I would suggest regularly visiting thrift stores or stores that feature clearance sales and inspecting articles of clothing for suitability. Footwear doesn't need to be brand new to be warm and useful.
 
   - ### A backpack
 
@@ -167,12 +196,17 @@ This is a rough list of some items that I believe every person who is without a 
 
     Backpacks are important for keeping your most essential and valuable posessions with you at all times, and they can be used both as strural elements of shelters, or as pillows while sleeping. How you back your backpack is very important, and There will be an entire section later in this document about how to properly pack your backpack.
 
+    Backpacks can be expensive, but they are one of the most important investments in gear you can make. Backpacks can often be found at military surplus stores and outdoor retailers, and occasionally at big-box stores and thrift stores. Buying used backpacks should be preferable as the cost savings will be significant.
+
   - ### A can opener
 
     ![can_opener](/images/can_opener.jpg)
-    Can openers make eating both convenient and safe. Any manual can opener will work, but the [P-38 can opener](https://en.wikipedia.org/wiki/P-38_can_opener)(pictured) is what I would recommend you own. It is incredibly small, light, and effective, and you can purchase them for literal pennies. They are easily found at military surplus stores, and can often be found at outdoor retailers, too.
+
+    Can openers make eating both convenient and safe. Any manual can opener will work, but the [P-38 can opener](https://en.wikipedia.org/wiki/P-38_can_opener)(pictured) is what I would recommend you own. It is incredibly small, light, and effective, and you can purchase them for literal pennies.
 
     If you do not have a can opener, you can also open most metal cans by simply grinding the lipped flat end of a can against concrete, but this can be unsanitary and also poses a risk of spilling your food on the ground.
+
+     Can openers (specifically P-38 style can openers) are easily found at military surplus stores, and can often be found at outdoor retailers, too. Other styles of can openers can readily be purchased from big-box stores, military surplus stores, and occasionally outdoor retailers.
 
 [Back to top](#roughing-it)
 
@@ -257,6 +291,24 @@ Coming soon.
 
 ### How To Dress
 Coming soon.
+<!-- TODO: how to dress
+
+  briefly discuss materials again
+  why layers instead of heavy coats
+
+  warm under layer
+
+  warm mid layer
+
+  windbreaking and waterproof outer layer
+
+  socks/shoes
+
+  gloves
+
+  hats
+
+ -->
 
 ## Essential Resources
 Coming soon.
